@@ -27,7 +27,7 @@ const subResult = numOne - numTwo;
 const multiResult = numOne * numTwo;
 
 
-//Dvision 
+//Division 
 const divResult = numOne / numTwo; 
 
 
